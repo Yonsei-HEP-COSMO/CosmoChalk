@@ -17,7 +17,7 @@ This repository contains information about the weekly Blackboard talks held by o
 |    9 | 2024-04-08 |     Yeji Park     |                Non-Gaussianity constrained by PTAs                |                                                                                                     [2307.01102](https://arxiv.org/abs/2307.01102)                                                                                                     |
 |   10 | 2024-04-15 | Dhong Yeon Cheong |                     ULDM & GW Interferometers                     | [2306.13348](https://arxiv.org/abs/2306.13348)<br>[2306.16219](https://arxiv.org/abs/2306.16219)<br>[2308.04590](https://arxiv.org/abs/2308.04590)<br>[2307.12624](https://arxiv.org/abs/2307.12624)<br>[2312.12225](https://arxiv.org/abs/2312.12225) |
 |   11 | 2024-04-22 |   Tae-Geun Kim    |                             DeepONet                              |                                                                                                     [1910.03193](https://arxiv.org/abs/1910.03193)                                                                                                     |
-
+|   12 | 2024-05-20 |     Yeji Park     |         Generic Predictions for Primordial Perturbations          |[2401.11142](https://arxiv.org/abs/2401.11142)                                                                     |
 ## Contributing
 
 If you would like to present a talk or suggest a topic for discussion, please feel free to reach out to the organizers.
