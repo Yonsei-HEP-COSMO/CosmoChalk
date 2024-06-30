@@ -21,7 +21,8 @@ This repository contains information about the weekly Blackboard talks held by o
 |   13 | 2024-05-27 |  Sang Chul Hyeon  |   PBH production from non-Abelian gauge fields during inflation   |                                                   [2403.13581](https://arxiv.org/abs/2403.13581)<br>[1904.01488](https://arxiv.org/abs/1904.01488)<br>[2311.07557](https://arxiv.org/abs/2311.07557)                                                   |
 |   14 | 2024-06-03 |    Juhoon Son     |                         mPBH inside a NS                          |                                                                            [2209.06060](https://arxiv.org/abs/2209.06060)<br>[2004.06084](https://arxiv.org/abs/2004.06084)                                                                            |
 |   15 | 2024-06-10 | Dhong Yeon Cheong |                    Wave DM & Relic backgrounds                    |                                                                                                                                                                                                                                                        |
-
+|   16 | 2024-06-17 |   Tae-Geun Kim    |                          Neural Hamilton                          |                                                   [1906.01563](https://arxiv.org/abs/1906.01563)<br>[2003.04630](https://arxiv.org/abs/2003.04630)<br>[1910.03193](https://arxiv.org/abs/1910.03193)                                                   |
+|   17 | 2024-06-24 | Dhong Yeon Cheong |                             PBH & GWs                             |                                                                        [2002.12778](https://arxiv.org/abs/2002.12778)<br>[hep-ph/0210162](https://arxiv.org/abs/hep-ph/0210162)                                                                        |
 
 ## Contributing
 
