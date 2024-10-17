@@ -1,6 +1,6 @@
 # Yonsei Cosmo-Chalk
 
-This repository contains information about the weekly Blackboard talks held by our research group, Yonsei HEP-COSMO. The talks are scheduled every Monday from 12:00 PM to 1:00 PM.
+This repository contains information about the weekly Blackboard talks held by our research group, Yonsei HEP-COSMO. The talks are scheduled every Friday from 2:00 PM to 3:00 PM.
 
 ## Talk Schedule
 
@@ -31,6 +31,9 @@ This repository contains information about the weekly Blackboard talks held by o
 |   23 | 2024-08-19 |   Tae-Geun Kim    |                         Evolution of PBHs                         |                                                                                                                [2003.02778](https://arxiv.org/abs/2003.02778)                                                                                                                |
 |   24 | 2024-08-26 |    Juhoon Son     |                          Cosmic strings                           | [hep-ph/9411342](https://arxiv.org/abs/hep-ph/9411342)<br>[Vilenkin & Shellard (2000)](https://www.cambridge.org/kr/universitypress/subjects/physics/theoretical-physics-and-mathematical-physics/cosmic-strings-and-other-topological-defects?format=PB&isbn=9780521654760) |
 |   25 | 2024-09-06 |     Yeji Park     |                    Intro to thermal inflation                     |                                                                                                            [hep-ph/9502417](https://arxiv.org/abs/hep-ph/9502417)                                                                                                            |
+|   26 | 2024-09-20 |  Sang Chul Hyeon  |  Runaway potential to unify *inflation* & late-time acceleration  |                                                                                                                                                                                                                                                                              |
+|   27 | 2024-09-27 |  Sang Chul Hyeon  |  Runaway potential to unify inflation & *late-time acceleration*  |                                                                                                                                                                                                                                                                              |
+|   28 | 2024-10-11 |   Tae-Geun Kim    |                     Classical Mechanics & AI                      |                                                              [1906.01563](https://arxiv.org/abs/1906.01563)<br>[2407.15200](https://arxiv.org/abs/2407.15200)<br>[1910.03193](https://arxiv.org/abs/1910.03193)                                                              |
 
 ## Contributing
 
